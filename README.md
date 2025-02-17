@@ -1,9 +1,7 @@
 # 🚀 Next.js Optimization & Advanced Data Fetching
 
 <!-- Welcome to the **Next.js Optimization & Advanced Data Fetching** -->
-Welcome to the **next.js-core-concepts**
-
- repository! This guide covers essential concepts such as hydration warnings, image optimization, SEO improvements, JSON server setup, and data-fetching strategies like SSG, SSR, and ISR.
+Welcome to the **next.js-core-concepts**repository! This guide covers essential concepts such as hydration warnings, image optimization, SEO improvements, JSON server setup, and data-fetching strategies like SSG, SSR, and ISR.
 
 ## 📌 Table of Contents
 - [Understanding `suppressHydrationWarning` in Next.js](#understanding-suppresshydrationwarning-in-nextjs)
