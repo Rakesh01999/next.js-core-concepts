@@ -21,7 +21,10 @@ export default function RootLayout({ children }) {
         className={roboto.className}
       >
         <Navbar />
-        {children}
+        <div className="min-h-screen">{children}</div>
+        <footer className="bg-gray-500 py-6 text-white text-center text-xl">
+          This it footer
+        </footer>
       </body>
     </html>
   );
