@@ -20,7 +20,7 @@ const HomePage = async () => {
       </div>
       <div className="my-6">
         <Link
-          href={`/allProducts`}
+          href={`/products`}
           className="bg-orange-400 text-white py-2 px-4 rounded-lg text-sm hover:bg-gray-800 transition"
         >
           See More
