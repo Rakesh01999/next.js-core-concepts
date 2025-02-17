@@ -23,6 +23,46 @@
       "brand": "XYZ Corp",
       "price": 2500,
       "image": "https://i.postimg.cc/9X9Pg8Qg/work.jpg"
+    },
+    {
+      "id": "4",
+      "productName": "SwiftTab S7",
+      "category": "Tablet",
+      "brand": "TechPro",
+      "price": 650,
+      "image": "https://i.postimg.cc/5N7wvvtb/tab.jpg"
+    },
+    {
+      "id": "5",
+      "productName": "ElitePad 10",
+      "category": "Tablet",
+      "brand": "EliteTech",
+      "price": 750,
+      "image": "https://i.postimg.cc/YqJ5p4wq/elite.jpg"
+    },
+    {
+      "id": "6",
+      "productName": "ProMax Phone X",
+      "category": "Smartphone",
+      "brand": "GigaMobile",
+      "price": 999,
+      "image": "https://i.postimg.cc/qMRJt6Ys/iphone.jpg"
+    },
+    {
+      "id": "7",
+      "productName": "HyperVision Ultra TV",
+      "category": "Television",
+      "brand": "Visionary",
+      "price": 2200,
+      "image": "https://i.postimg.cc/j2TW0qd8/Hyper-Vision-Ultra-TV.jpg"
+    },
+    {
+      "id": "8",
+      "productName": "SoundBlast 500",
+      "category": "Speakers",
+      "brand": "AudioMax",
+      "price": 350,
+      "image": "https://i.postimg.cc/kX8jvfkq/Sound-Blast-500.jpg"
     }
   ]
 }
