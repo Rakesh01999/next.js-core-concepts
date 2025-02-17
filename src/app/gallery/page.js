@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import nextImage from "../../assets/next image.png"
 const GalleryPage = () => {
   return (
     <div>
@@ -11,9 +11,17 @@ const GalleryPage = () => {
         height={500}
         className="mx-auto"
       />
-      <h1 className="text-2xl text-center">Next Image Tag</h1>
+      <h1 className="text-2xl text-center">NextJs Image Component</h1>
       <Image
         src="https://nextjs.org/api/docs-og?title=Optimizing%20Images"
+        alt="Next Image"
+        width={500}
+        height={500}
+        className="mx-auto"
+      />
+      <h1 className="text-2xl text-center">Local Image Component</h1>
+      <Image
+        src={nextImage}
         alt="Next Image"
         width={500}
         height={500}
