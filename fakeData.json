@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Ultrabook X15",
+      "category": "Laptop",
+      "brand": "TechPro",
+      "price": 1200,
+      "image": "https://www.pcworld.com/wp-content/uploads/2023/10/best-laptops-ultrabook-x15-techpro-500x333.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Gaming Beast G17",
+      "category": "Laptop",
+      "brand": "PowerCore",
+      "price": 1800,
+      "image": "https://www.example.com/gaming-beast-g17.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Workstation Pro",
+      "category": "Desktop",
+      "brand": "XYZ Corp",
+      "price": 2500,
+      "image": "https://www.another-example.com/workstation-pro.jpg"
+    }
+  ]
+}
