@@ -5,28 +5,6 @@ Here's a detailed, organized, and attractive GitHub repository's `README.md` fil
 
 This repository contains a Next.js application demonstrating various features such as server-side rendering (SSR), static site generation (SSG), image optimization, font handling, and advanced data fetching strategies. 
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Hydration](#hydration)
-- [Image Optimization](#image-optimization)
-- [Font Optimization](#font-optimization)
-- [Pre-rendering](#pre-rendering)
-- [Data Fetching](#data-fetching)
-- [Error Handling](#error-handling)
-- [Active Links in Navbar](#active-links-in-navbar)
-- [Contributing](#contributing)
-
-## Features
-
-- **SSR & SSG**: Efficient data fetching strategies.
-- **Image Optimization**: Using Next.js’ built-in Image component.
-- **Hydration Management**: Understanding and implementing `suppressHydrationWarning`.
-- **Error Handling**: Customized error pages to enhance user experience.
-- **Dynamic Routing**: Handling active links in navigation.
-
 ## Installation
 
 To get started with this application, clone the repository and install dependencies:
